@@ -25,3 +25,4 @@ if integers >= 1:
     #Printing of final min and max values
     print(f"min: {min}")
     print(f"max: {max}")
+else: print("your number of integers has to be >= 1")
